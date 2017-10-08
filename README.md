@@ -6,6 +6,9 @@
   - [Hall of Flame (🔥)](#hall-of-flame-)
   - [Furnace (🏩)](#furnace-)
   - [Jar of Spark (✨)](#jar-of-spark-)
+    - [Flocipe](#flocipe)
+    - [BameGoy](#bamegoy)
+    - [Jarsing](#jarsing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,3 +23,11 @@
 ## Jar of Spark (✨)
 > "Freeze! ... Well, figuratively. Could you please get into this cozy jar?"
 
+### Flocipe
+A markup language for recipes. Plus some animation helpers, maybe.
+
+### BameGoy
+A GameBoy emulator that sounds Thai.
+
+### Jarsing
+Capture vocabularies from your daily activities.
