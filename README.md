@@ -31,3 +31,6 @@ A GameBoy emulator that sounds Thai.
 
 ### Jarsing
 Capture vocabularies from your daily activities.
+
+### Plog
+A Python log viewer. Designed for the Python logging library. PyQt5, Qt Quick 2.
