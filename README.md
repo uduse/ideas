@@ -37,3 +37,6 @@ A Python log viewer. Designed for the Python logging library. PyQt5, Qt Quick 2.
 
 ### Gimmentary
 A Git repo commentary tool. Narrate a Git repo's development as you wish.
+
+### A Shitty Project
+Just a shitty project.
